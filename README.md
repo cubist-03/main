@@ -1,1 +1,1 @@
-# main
+Integrates Vuex for state management
